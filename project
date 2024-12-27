@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <header>
+            <h1>Navigational Links</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">home</a></li>
+                    <li><a href="#posts">posts</a></li>
+                    <li><a href="#contact"></a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <article>
+                    <h2>Facts About Cats</h2>
+                    <p>
+                        Cats, members of the Felidae family, have shared a deep-rooted relationship with humans for thousands of years. They are not only adored for their elegance and independence but also for their role as companions and hunters. Cats are lovely pets that many people keep at home. They have soft fur, sharp claws, and teeth, and they enjoy playing with balls and strings. Cats communicate with humans through their characteristic "meow" sound and are known to enjoy milk and fish.
+                    </p>
+                </article>
+                <aside>
+                    <p>
+                        Cats are of three types- house cats, farm cats and feral cats. House cats are the cats we pet in our houses. Cats become good friends of humans. Unlike dogs, cats are not very active around their owners. However, they are good emotional companions to their owners. An essay on cats must emphasize the fact that cat-sitting has been proven to be therapeutic by many researchers. 
+                    </p>
+                </aside>
+            </section>
+            <figure>
+                <img src="th.jfif" height="300" width="300"/>
+                <figcaption>A cute cat.</figcaption>
+            </figure>
+            <audio controls>
+                <sorce src="sound-effect-cat-meow-279336.mp3" type"audio/mp3"></sorce>
+            </audio><br>
+            
+        </main>
+        <footer>
+            <p>Contact me at +91 634 456 65490</p>
+        </footer>
+    </body></html>
